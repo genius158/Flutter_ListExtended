@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
 class ScrollableExtended extends SingleChildRenderObjectWidget {
+  // 第一次设置生效
   Direction direction;
 
   ScrollableExtended(Widget child, {this.direction = Direction.top})
@@ -12,11 +13,6 @@ class ScrollableExtended extends SingleChildRenderObjectWidget {
   @override
   _SpacePadding createRenderObject(BuildContext context) {
     return _SpacePadding(direction, padding: EdgeInsets.only());
-  }
-
-  @override
-  void updateRenderObject(BuildContext context, _SpacePadding renderObject) {
-    renderObject..direction = direction;
   }
 
   @override
