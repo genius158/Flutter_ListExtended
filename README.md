@@ -7,7 +7,7 @@
 <br/>
 1080x1920
 <br/>
-<img src="https://raw.githubusercontent.com/genius158/Flutter_ListExtended/master/img/1080x1920.jpg" width="360" height="640" alt="1080x1920" align=center>
+<img src="https://raw.githubusercontent.com/genius158/Flutter_ListExtended/master/img/1080*1920.jpg" width="360" height="640" alt="1080x1920" align=center>
 
 ### code
 ```
