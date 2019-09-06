@@ -1,15 +1,5 @@
-# scrollableextend
+# scrollableExtended 在 滚动组件里 实现 类似 extended在row、column里的效果 
 
-A new Flutter package.
-
-## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# Flutter_ListExtended
+![1280x1920](https://raw.githubusercontent.com/genius158/Flutter_ListExtended/master/img/1280x1920.jpg) 
+<br/>
+![480x800](https://raw.githubusercontent.com/genius158/Flutter_ListExtended/master/img/480x800.jpg) 
